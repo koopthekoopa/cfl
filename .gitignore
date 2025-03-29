@@ -1,0 +1,19 @@
+# IDE folders
+.idea/
+.vs/
+
+# Archives
+*.zip
+*.7z
+
+# Executables
+*.exe
+*.bat
+
+# Miscellaneous
+.private/*
+*.txt
+*.lnk
+*.bak
+*.log
+ctx.c
